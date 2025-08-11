@@ -21,21 +21,16 @@ Principais Insights
 
 A partir da análise, foram identificados os seguintes padrões que contribuem para o churn:
 
-📅 Tipo de contrato: Clientes optam por cancelar logo nos primeiros meses de contrato.
+Tipo de contrato: Clientes optam por cancelar logo nos primeiros meses de contrato.
 
-💳 Método de pagamento: Clientes que pagam via "Electronic check" são mais propensos a cancelar.
+Método de pagamento: Clientes que pagam via "Electronic check" são mais propensos a cancelar.
 
-🌐 Tipo de internet: Usuários de "Fiber optic" apresentaram maior taxa de churn em comparação com os de DSL.
+Tipo de internet: Usuários de "Fiber optic" apresentaram maior taxa de churn em comparação com os de DSL.
 
 
-✍️ Autor
+Autor
 
 Projeto desenvolvido por Rayanne Santos como parte de um desafio de análise de dados no setor de telecomunicações.
-
-
-📝 Licença
-
-Projeto para fins educacionais.
 
 
 
