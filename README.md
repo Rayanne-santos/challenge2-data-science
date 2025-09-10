@@ -1,6 +1,6 @@
 Análise de Churn de Clientes - Telecom X
 
-Este repositório contém a análise exploratória de dados (EDA) realizada para o projeto "Churn de Clientes" da empresa fictícia Telecom X.
+Este repositório contém a análise exploratória de dados (EDA) realizada para o projeto "Churn de Clientes" da empresa fictícia Telecom X. Faz parte da formação em Data Science da Alura. 
 
 Desafio
 
@@ -27,10 +27,6 @@ Método de pagamento: Clientes que pagam via "Electronic check" são mais propen
 
 Tipo de internet: Usuários de "Fiber optic" apresentaram maior taxa de churn em comparação com os de DSL.
 
-
-Autor
-
-Projeto desenvolvido por Rayanne Santos como parte de um desafio de análise de dados no setor de telecomunicações.
 
 
 
