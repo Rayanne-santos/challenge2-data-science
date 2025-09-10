@@ -10,22 +10,22 @@ Etapas da Análise
 
 O trabalho foi conduzido em Python, utilizando as bibliotecas pandas, matplotlib e seaborn. As etapas incluem:
 
-ETL (Extração, Transformação e Carga) de dados a partir de um arquivo JSON (simulando uma API)
-Limpeza e normalização de dados aninhados
-Criação de visualizações estratégicas
-Análise Exploratória de Dados (EDA)
-Geração de insights para o negócio
+    * ETL (Extração, Transformação e Carga) de dados a partir de um arquivo JSON (simulando uma API)
+    * Limpeza e normalização de dados aninhados
+    * Criação de visualizações estratégicas
+    * Análise Exploratória de Dados (EDA)
+    * Geração de insights para o negócio
 
 
 Principais Insights
 
 A partir da análise, foram identificados os seguintes padrões que contribuem para o churn:
 
-Tipo de contrato: Clientes optam por cancelar logo nos primeiros meses de contrato.
+  * Tipo de contrato: Clientes optam por cancelar logo nos primeiros meses de contrato.
 
-Método de pagamento: Clientes que pagam via "Electronic check" são mais propensos a cancelar.
+  * Método de pagamento: Clientes que pagam via "Electronic check" são mais propensos a cancelar.
 
-Tipo de internet: Usuários de "Fiber optic" apresentaram maior taxa de churn em comparação com os de DSL.
+  * Tipo de internet: Usuários de "Fiber optic" apresentaram maior taxa de churn em comparação com os de DSL.
 
 
 
